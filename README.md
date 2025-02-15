@@ -37,7 +37,7 @@ This bot **automatically monitors Twitter** for influential tweets mentioning me
 - **RPC Provider:** `https://rpc.testnet.near.org`
 
 ---
-
+![Frontend](image.png)
 ---
 
 ## 🤝 Contributing
